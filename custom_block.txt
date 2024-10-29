@@ -1,1 +1,6 @@
-||cdnplaypro.com^
+##.popup
+##.modal
+##.overlay
+##[id^="popup"]
+##[class*="popup"]
+##[class*="modal"]
