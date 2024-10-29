@@ -1,6 +1,1 @@
-##.popup
-##.modal
-##.overlay
-##[id^="popup"]
-##[class*="popup"]
-##[class*="modal"]
+||animeflv.net^$script
